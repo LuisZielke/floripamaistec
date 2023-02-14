@@ -1,0 +1,15 @@
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\M1S03\M1S03\bin\Debug\net6.0\M1S03.exe
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\M1S03\M1S03\bin\Debug\net6.0\M1S03.deps.json
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\M1S03\M1S03\bin\Debug\net6.0\M1S03.runtimeconfig.json
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\M1S03\M1S03\bin\Debug\net6.0\M1S03.dll
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\M1S03\M1S03\bin\Debug\net6.0\M1S03.pdb
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\M1S03\M1S03\obj\Debug\net6.0\M1S03.csproj.AssemblyReference.cache
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\M1S03\M1S03\obj\Debug\net6.0\M1S03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\M1S03\M1S03\obj\Debug\net6.0\M1S03.AssemblyInfoInputs.cache
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\M1S03\M1S03\obj\Debug\net6.0\M1S03.AssemblyInfo.cs
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\M1S03\M1S03\obj\Debug\net6.0\M1S03.csproj.CoreCompileInputs.cache
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\M1S03\M1S03\obj\Debug\net6.0\M1S03.dll
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\M1S03\M1S03\obj\Debug\net6.0\refint\M1S03.dll
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\M1S03\M1S03\obj\Debug\net6.0\M1S03.pdb
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\M1S03\M1S03\obj\Debug\net6.0\M1S03.genruntimeconfig.cache
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\M1S03\M1S03\obj\Debug\net6.0\ref\M1S03.dll
