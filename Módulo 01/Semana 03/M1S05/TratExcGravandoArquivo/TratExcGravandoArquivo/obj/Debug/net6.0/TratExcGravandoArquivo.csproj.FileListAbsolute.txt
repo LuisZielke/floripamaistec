@@ -1,0 +1,15 @@
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcGravandoArquivo\TratExcGravandoArquivo\bin\Debug\net6.0\TratExcGravandoArquivo.exe
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcGravandoArquivo\TratExcGravandoArquivo\bin\Debug\net6.0\TratExcGravandoArquivo.deps.json
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcGravandoArquivo\TratExcGravandoArquivo\bin\Debug\net6.0\TratExcGravandoArquivo.runtimeconfig.json
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcGravandoArquivo\TratExcGravandoArquivo\bin\Debug\net6.0\TratExcGravandoArquivo.dll
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcGravandoArquivo\TratExcGravandoArquivo\bin\Debug\net6.0\TratExcGravandoArquivo.pdb
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net6.0\TratExcGravandoArquivo.csproj.AssemblyReference.cache
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net6.0\TratExcGravandoArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net6.0\TratExcGravandoArquivo.AssemblyInfoInputs.cache
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net6.0\TratExcGravandoArquivo.AssemblyInfo.cs
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net6.0\TratExcGravandoArquivo.csproj.CoreCompileInputs.cache
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net6.0\TratExcGravandoArquivo.dll
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net6.0\refint\TratExcGravandoArquivo.dll
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net6.0\TratExcGravandoArquivo.pdb
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net6.0\TratExcGravandoArquivo.genruntimeconfig.cache
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net6.0\ref\TratExcGravandoArquivo.dll
