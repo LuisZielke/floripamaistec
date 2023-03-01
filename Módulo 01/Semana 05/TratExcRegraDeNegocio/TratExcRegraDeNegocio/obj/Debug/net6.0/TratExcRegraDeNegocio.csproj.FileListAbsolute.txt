@@ -1,0 +1,15 @@
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcRegraDeNegocio\TratExcRegraDeNegocio\bin\Debug\net6.0\TratExcRegraDeNegocio.exe
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcRegraDeNegocio\TratExcRegraDeNegocio\bin\Debug\net6.0\TratExcRegraDeNegocio.deps.json
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcRegraDeNegocio\TratExcRegraDeNegocio\bin\Debug\net6.0\TratExcRegraDeNegocio.runtimeconfig.json
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcRegraDeNegocio\TratExcRegraDeNegocio\bin\Debug\net6.0\TratExcRegraDeNegocio.dll
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcRegraDeNegocio\TratExcRegraDeNegocio\bin\Debug\net6.0\TratExcRegraDeNegocio.pdb
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcRegraDeNegocio\TratExcRegraDeNegocio\obj\Debug\net6.0\TratExcRegraDeNegocio.csproj.AssemblyReference.cache
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcRegraDeNegocio\TratExcRegraDeNegocio\obj\Debug\net6.0\TratExcRegraDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcRegraDeNegocio\TratExcRegraDeNegocio\obj\Debug\net6.0\TratExcRegraDeNegocio.AssemblyInfoInputs.cache
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcRegraDeNegocio\TratExcRegraDeNegocio\obj\Debug\net6.0\TratExcRegraDeNegocio.AssemblyInfo.cs
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcRegraDeNegocio\TratExcRegraDeNegocio\obj\Debug\net6.0\TratExcRegraDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcRegraDeNegocio\TratExcRegraDeNegocio\obj\Debug\net6.0\TratExcRegraDeNegocio.dll
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcRegraDeNegocio\TratExcRegraDeNegocio\obj\Debug\net6.0\refint\TratExcRegraDeNegocio.dll
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcRegraDeNegocio\TratExcRegraDeNegocio\obj\Debug\net6.0\TratExcRegraDeNegocio.pdb
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcRegraDeNegocio\TratExcRegraDeNegocio\obj\Debug\net6.0\TratExcRegraDeNegocio.genruntimeconfig.cache
+C:\Users\Luis Zielke\Documents\Testes de aula full stack\TratExcRegraDeNegocio\TratExcRegraDeNegocio\obj\Debug\net6.0\ref\TratExcRegraDeNegocio.dll
